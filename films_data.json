@@ -275,5 +275,31 @@
             "Aventure",
             "Science fiction"
         ]
+    },
+    {
+        "title": "Planes",
+        "release_year": "2013 -",
+        "runtime": "92 min.",
+        "iframe_src": "https://frenchcloud.cam/movie/tt1691917",
+        "poster_src": "https://french-stream.gratis/uploads/thumb/300x450-0-80/2024-10/1728575332-518067561.jpg",
+        "genres": [
+            "Animation",
+            "Famille",
+            "Aventure",
+            "Comédie"
+        ]
+    },
+    {
+        "title": "Cars 3",
+        "release_year": "2017 -",
+        "runtime": "109 min.",
+        "iframe_src": "https://frenchcloud.cam/movie/tt3606752",
+        "poster_src": "https://french-stream.gratis/uploads/thumb/300x450-0-80/2024-03/1710534493-143878062.jpg",
+        "genres": [
+            "Famille",
+            "Animation",
+            "Aventure",
+            "Comédie"
+        ]
     }
 ]
