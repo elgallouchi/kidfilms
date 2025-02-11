@@ -38,7 +38,7 @@
 // };
 // showData();
 
-const filmsPerPage = 8; // Nombre de films par page
+const filmsPerPage = 20; // Nombre de films par page
 let currentPage = 1;
 let totalPages = 1;
 let filmsData = [];

@@ -96,7 +96,7 @@ footer a {
   /* width: 100%; */
 }
 .prev {
-  background-color: #333;
+  background-color: #3F51B5;
   border-radius: 0.3rem;
   border: 0;
   padding: 0.5rem 1rem;
@@ -104,7 +104,7 @@ footer a {
   cursor: pointer;
 }
 .next {
-  background-color: #333;
+  background-color: #3F51B5;
   border-radius: 0.3rem;
   border: 0;
   padding: 0.5rem 1rem;
@@ -115,7 +115,7 @@ footer a {
 .next[disabled] {
   cursor: text;
   color: #ddd;
-  background-color: #666;
+  background-color: #9E9E9E;
 }
 
 /* responsive */
