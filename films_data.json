@@ -132,5 +132,122 @@
         "genres": [
             "Animation"
         ]
+    },
+    {
+        "title": "Cars 2",
+        "release_year": "2011 -",
+        "runtime": "106 min.",
+        "iframe_src": "https://frenchcloud.cam/movie/tt1216475",
+        "poster_src": "https://french-stream.gratis/uploads/thumb/300x450-0-80/2024-10/1730022950-896283313.jpg",
+        "genres": [
+            "Animation",
+            "Famille",
+            "Aventure",
+            "Comédie"
+        ]
+    },
+    {
+        "title": "Batman : Les Origines",
+        "release_year": "2011 -",
+        "runtime": "64 min.",
+        "iframe_src": "https://frenchcloud.cam/movie/tt1672723",
+        "poster_src": "https://french-stream.gratis/uploads/thumb/300x450-0-80/2024-10/1730022478-899267221.jpg",
+        "genres": [
+            "Action",
+            "Animation",
+            "Crime"
+        ]
+    },
+    {
+        "title": "L'âge de glace fête Noël",
+        "release_year": "2011 -",
+        "runtime": "26 min min.",
+        "iframe_src": "https://frenchcloud.cam/movie/tt2100546",
+        "poster_src": "https://french-stream.gratis/uploads/thumb/300x450-0-80/2024-10/1729890408-126209059.jpg",
+        "genres": [
+            "Animation",
+            "Famille",
+            "Téléfilm"
+        ]
+    },
+    {
+        "title": "Les Aventures de Tintin : Le Secret de la Licorne",
+        "release_year": "2011 -",
+        "runtime": "106 min.",
+        "iframe_src": "https://frenchcloud.cam/movie/tt0983193",
+        "poster_src": "https://french-stream.gratis/uploads/thumb/300x450-0-80/2024-10/1729677441-136449923.jpg",
+        "genres": [
+            "Aventure",
+            "Animation",
+            "Mystery"
+        ]
+    },
+    {
+        "title": "Madagascar 3 : Bons baisers d'Europe",
+        "release_year": "2012 -",
+        "runtime": "93 min.",
+        "iframe_src": "https://frenchcloud.cam/movie/tt1277953",
+        "poster_src": "https://french-stream.gratis/uploads/thumb/300x450-0-80/2024-09/1727022659-684274913.jpg",
+        "genres": [
+            "Animation",
+            "Famille",
+            "Comédie",
+            "Aventure"
+        ]
+    },
+    {
+        "title": "Madagascar 2",
+        "release_year": "2008 -",
+        "runtime": "95 min.",
+        "iframe_src": "https://frenchcloud.cam/movie/tt0479952",
+        "poster_src": "https://french-stream.gratis/uploads/thumb/300x450-0-80/2025-01/1736090360-538550365.jpg",
+        "genres": [
+            "Famille",
+            "Aventure",
+            "Animation",
+            "Comédie"
+        ]
+    },
+    {
+        "title": "Madagascar en folie",
+        "release_year": "2013 -",
+        "runtime": "N/A min.",
+        "iframe_src": "https://frenchcloud.cam/movie/tt2702348",
+        "poster_src": "https://french-stream.gratis/uploads/thumb/300x450-0-80/2024-10/1728574198-572190959.jpg",
+        "genres": [
+            "Animation",
+            "Comédie",
+            "Famille"
+        ]
+    },
+    {
+        "title": "Joyeux Noël Madagascar",
+        "release_year": "2009 -",
+        "runtime": "28 min.",
+        "iframe_src": "https://frenchcloud.cam/movie/tt1526300",
+        "poster_src": "https://french-stream.gratis/uploads/thumb/300x450-0-80/2025-01/1736175260-939609090.jpg",
+        "genres": [
+            "Animation",
+            "Famille"
+        ]
+    },
+    {
+        "title": "Les Pingouins de Madagascar : Opération Antarctique",
+        "release_year": "2012 -",
+        "runtime": "90 min.",
+        "iframe_src": "https://frenchcloud.cam/movie/tt892444545",
+        "poster_src": "https://french-stream.gratis/uploads/thumb/300x450-0-80/2024-09/1726862303-108069096.jpg",
+        "genres": [
+            "Comédie",
+            "Animation"
+        ]
+    },
+    {
+        "title": "Les Pingouins de Madagascar",
+        "release_year": "2014 -",
+        "runtime": "92 min.",
+        "iframe_src": "https://frenchcloud.cam/movie/tt1911658",
+        "poster_src": "https://french-stream.gratis/uploads/thumb/300x450-0-80/2024-06/1718492479-595415734.jpg",
+        "genres": []
     }
 ]
