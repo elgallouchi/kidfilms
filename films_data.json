@@ -262,5 +262,18 @@
             "Animation",
             "Historique"
         ]
+    },
+    {
+        "title": "Spider-Man : Across the Spider-Verse",
+        "release_year": "2023 -",
+        "runtime": "140 min.",
+        "iframe_src": "https://frenchcloud.cam/movie/tt9362722",
+        "poster_src": "https://french-stream.gratis/uploads/thumb/300x450-0-80/2023-11/1701204838-855176859.jpg",
+        "genres": [
+            "Animation",
+            "Action",
+            "Aventure",
+            "Science fiction"
+        ]
     }
 ]
