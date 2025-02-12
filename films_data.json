@@ -542,5 +542,233 @@
             "Famille"
         ],
         "created_at": "11-02-25_22:21:58"
+    },
+    {
+        "id": "823f516d-adf5-4aec-a08e-40e4e898862f",
+        "title": "GTMAX",
+        "release_year": "2024 -",
+        "runtime": "98 min.",
+        "iframe_src": "https://frenchcloud.cam/movie/tt29260436",
+        "poster_src": "https://french-stream.gratis/uploads/thumb/300x450-0-80/2024-11/1732106015-392637382.jpg",
+        "genres": [
+            "Action",
+            "Crime",
+            "Drame"
+        ],
+        "quality": "HD",
+        "audio": "VF",
+        "description": "Soélie, une jeune prodige de motocross, voit ses rêves de réussite brisés suite à un accident. Elle se consacre désormais à entraîner son frère, Michael. Quand celui-ci est recruté par des pilotes en scooter Tmax pour un braquage de haut vol à Paris, Soélie doit surmonter ses peurs pour le sauver.",
+        "country": "France",
+        "director": "Olivier Schneider",
+        "actors": [
+            "Ava Baya",
+            "Jalil Lespert",
+            "Jérémie Laheurte",
+            "Thibaut Évrard",
+            "Riadh Belaïche",
+            "Gérard Lanvin",
+            "Samir Decazza",
+            "Clémentine Célarié",
+            "Mohamed Makhtoumi"
+        ],
+        "created_at": "12-02-25_11:40:06"
+    },
+    {
+        "id": "e30e1224-4af2-4390-88da-399114d87a2c",
+        "title": "Banlieusards",
+        "release_year": "2019 -",
+        "runtime": "96 min.",
+        "iframe_src": "https://frenchcloud.cam/movie/tt10958282",
+        "poster_src": "https://french-stream.gratis/uploads/thumb/300x450-0-80/2024-02/1707338824-752860341.jpg",
+        "genres": [
+            "Drame",
+            "Crime"
+        ],
+        "quality": "HD",
+        "audio": "VF",
+        "description": "Trois frères issus d’une banlieue sensible de la région parisienne. Soulaymaan, élève avocat à Paris, réussit brillamment ses études. Son chemin croise celui de Lisa face à laquelle il débat sur la responsabilité de l'État dans la situation actuelle des banlieues lors de la finale d'un célèbre concours d'éloquence. Demba, l’aîné, vit aux rythmes du trafic et de la rue. Leur petit frère Noumouké, 15 ans, cherche encore sa voie, et doit choisir auquel de ses deux grands frères il veut ressembler. Une bagarre, un coup de feu, un drame.",
+        "country": "France",
+        "director": "Alix Mathurin",
+        "actors": [
+            "Bakary Diombera",
+            "Jammeh Diangana",
+            "Chloé Jouannet",
+            "Alix Mathurin",
+            "Dali Benssalah",
+            "Slimane Dazi",
+            "Cherine Ghemri",
+            "Ahmed Bedda",
+            "Aïmen Derriachi"
+        ],
+        "created_at": "12-02-25_11:40:13"
+    },
+    {
+        "id": "f374265a-e0e2-49ca-b63f-d960c874bc06",
+        "title": "Banlieusards 2",
+        "release_year": "2023 -",
+        "runtime": "98 min.",
+        "iframe_src": "https://frenchcloud.cam/movie/tt27045321",
+        "poster_src": "https://french-stream.gratis/uploads/thumb/300x450-0-80/2023-11/1700515669-868138993.jpg",
+        "genres": [
+            "Drame"
+        ],
+        "quality": "HD",
+        "audio": "TRUEFRENCH",
+        "description": "Deux ans après avoir frôlé la mort, Demba tente de changer de vie. Noumouké est impliqué dans des rixes entre quartiers rivaux et Soulaymaan fait ses premiers pas en tant qu'avocat. Les trois frères résisteront-ils à la vague de violence et à la brutalité des évènements qui s'abattent sur eux ?",
+        "country": "France",
+        "director": "Alix Mathurin",
+        "actors": [
+            "Bakary Diombera",
+            "Jammeh Diangana",
+            "Kadi Diarra",
+            "Alix Mathurin",
+            "Sana Sri",
+            "Krystel Roche",
+            "Foued Nabba",
+            "Mahamadou Coulibaly",
+            "Cherine Ghemri"
+        ],
+        "created_at": "12-02-25_11:40:21"
+    },
+    {
+        "id": "0b6ef881-ac42-4583-a13f-b0bb97f0beec",
+        "title": "L'Homme qui défiait l'infini",
+        "release_year": "2016 -",
+        "runtime": "108 min.",
+        "iframe_src": "https://frenchcloud.cam/movie/tt0787524",
+        "poster_src": "https://french-stream.gratis/uploads/thumb/300x450-0-80/2024-04/1713173537-184092141.jpg",
+        "genres": [
+            "Drame"
+        ],
+        "quality": "HD",
+        "audio": "VF",
+        "description": "1913. Modeste fonctionnaire de l'administration indienne, Srinivasa Ramanujan décide d'écrire à Geoffrey H. Hardy, l'un des plus célèbres mathématiciens de l'époque. Ce dernier, étonné par le talent spectaculaire de Ramanujan, décide de le faire venir en Grande-Bretagne. Il débarque à Cambridge et va devoir prouver aux plus grands mathématiciens de l'histoire, la véracité de ses recherches...",
+        "country": "Royaume-Uni",
+        "director": "Matt Brown",
+        "actors": [
+            "Dev Patel",
+            "Jeremy Irons",
+            "Toby Jones",
+            "Devika Bhise",
+            "Stephen Fry",
+            "Kevin McNally",
+            "Jeremy Northam",
+            "Anthony Calf",
+            "Pádraic Delaney"
+        ],
+        "created_at": "12-02-25_11:40:28"
+    },
+    {
+        "id": "854cbad5-c166-48e2-96f2-75922f844e66",
+        "title": "Pelé - Naissance d'une légende",
+        "release_year": "2016 -",
+        "runtime": "107 min.",
+        "iframe_src": "https://frenchcloud.cam/movie/tt0995868",
+        "poster_src": "https://french-stream.gratis/uploads/thumb/300x450-0-80/2024-08/1724163227-228827308.jpg",
+        "genres": [
+            "Drame"
+        ],
+        "quality": "HD",
+        "audio": "VF",
+        "description": "L’incroyable ascension de la légende du football, qui, grâce à un style hors norme et à force de détermination, triompha de tous les obstacles, pour devenir l’inspiration d’un pays tout entier, et le changer à jamais. De son enfance dans les favelas à son entrée dans le club du FC Santos, son talent le mènera jusqu’à la Coupe du Monde 1958 où, alors âgé de 17 ans seulement, il marqua le but décisif qui couronna le Brésil du titre mondial.",
+        "country": "United States",
+        "director": "Jeff Zimbalist",
+        "actors": [
+            "Kevin de Paula",
+            "Leonardo Lima Carvalho",
+            "Seu Jorge",
+            "Milton Gonçalves",
+            "Seth Michaels",
+            "Vincent D'Onofrio",
+            "André Mattos",
+            "Mariana Nunes",
+            "Phil Miler"
+        ],
+        "created_at": "12-02-25_11:40:35"
+    },
+    {
+        "id": "2c8cf92b-4bfe-4d30-b933-b58eb04c602c",
+        "title": "Inarrêtable",
+        "release_year": "2024 -",
+        "runtime": "123 min.",
+        "iframe_src": "https://frenchcloud.cam/movie/tt3864060",
+        "poster_src": "https://french-stream.gratis/uploads/thumb/300x450-0-80/2025-01/1737042404-525066664.jpg",
+        "genres": [
+            "Drame",
+            "Biopic"
+        ],
+        "quality": "HD",
+        "audio": "VF",
+        "description": "Le parcours hors du commun d'Anthony Robles. Né sans jambe droite dans une famille monoparentale, il a su soulever des montagnes pour devenir le champion de lutte de son Université.",
+        "country": "États-Unis",
+        "director": "William Goldenberg",
+        "actors": [
+            "Jharrel Jerome",
+            "Jennifer Lopez",
+            "Don Cheadle",
+            "Bobby Cannavale",
+            "Michael Peña",
+            "Chimechi Oparanozie",
+            "Parker Sack",
+            "Jordan Wallace",
+            "Benjamin Barrett"
+        ],
+        "created_at": "12-02-25_11:40:41"
+    },
+    {
+        "id": "7a2d2528-52af-4092-bda0-8a356ba7643d",
+        "title": "I Am Ali",
+        "release_year": "2014 -",
+        "runtime": "111 min.",
+        "iframe_src": "https://frenchcloud.cam/movie/tt4008652",
+        "poster_src": "https://french-stream.gratis/uploads/thumb/300x450-0-80/2024-06/1719061692-133166801.jpg",
+        "genres": [
+            "Documentaire"
+        ],
+        "quality": "SD",
+        "audio": "VF",
+        "description": "Un documentaire unique sur Mohamed Ali, l'homme à travers sa légende. Des témoignages exceptionnels de sa famille et ses amis, ainsi que des légendes de la boxe tels que Mike Tyson, George Foreman et Gene Kilroy.",
+        "country": "Royaume-Uni",
+        "director": "Clare Lewins",
+        "actors": [
+            "Muhammad Ali",
+            "Jim Brown",
+            "George Foreman",
+            "Tom Jones",
+            "Mike Tyson",
+            "Muhammad Ali Jr.",
+            "Hana Ali",
+            "Maryum Ali",
+            "Marvis Frazier"
+        ],
+        "created_at": "12-02-25_11:40:49"
+    },
+    {
+        "id": "1b61c95f-c658-423e-a5b0-eeb7d89e60b8",
+        "title": "Pelé",
+        "release_year": "2021 -",
+        "runtime": "108 min.",
+        "iframe_src": "https://frenchcloud.cam/movie/tt19382188",
+        "poster_src": "https://french-stream.gratis/uploads/thumb/300x450-0-80/2024-01/1705616335-718730297.jpg",
+        "genres": [
+            "Documentaire"
+        ],
+        "quality": "HD",
+        "audio": "VF",
+        "description": "Ce documentaire retrace le parcours extraordinaire de Pelé, qui est passé de jeune star à héros national, avec pour toile de fond un Brésil tourmenté.",
+        "country": "Brésil",
+        "director": "David Tryhorn",
+        "actors": [
+            "Pelé",
+            "Zagallo",
+            "Gilberto Gil",
+            "Benedita da Silva",
+            "Fernando Henrique Cardoso",
+            "Amarildo",
+            "Roberto Rivellino",
+            "Robert F. Kennedy",
+            "Muhammad Ali"
+        ],
+        "created_at": "12-02-25_11:40:55"
     }
 ]
