@@ -770,5 +770,36 @@
             "Muhammad Ali"
         ],
         "created_at": "12-02-25_11:40:55"
+    },
+    {
+        "id": "e77685e2-1fed-40d0-af52-3ccd9592d2ab",
+        "title": "Cars : Quatre roues",
+        "release_year": "2006 -",
+        "runtime": "111 min.",
+        "iframe_src": "https://frenchcloud.cam/movie/tt0317219",
+        "poster_src": "https://french-stream.gratis/uploads/thumb/300x450-0-80/2025-02/1739919024-385822283.jpg",
+        "genres": [
+            "Animation",
+            "Aventure",
+            "Comédie",
+            "Famille"
+        ],
+        "quality": "HD",
+        "audio": "VF",
+        "description": "Un champion de course, Flash McQueen vit à cent à l'heure jusqu’à ce qu’un détour le mène à Radiator Springs, une petite ville oubliée sur la Route 66. Il y rencontre Sally, Martin, Doc Hudson et un tas de personnages amusants qui l’aident à découvrir que la vie vaut plus que les trophées et la célébrité.",
+        "country": "États-Unis",
+        "director": "John Lasseter",
+        "actors": [
+            "Owen Wilson",
+            "Paul Newman",
+            "Bonnie Hunt",
+            "Larry the Cable Guy",
+            "Cheech Marin",
+            "Tony Shalhoub",
+            "Guido Quaroni",
+            "Jenifer Lewis",
+            "Paul Dooley"
+        ],
+        "created_at": "22-02-25_19:51:18"
     }
 ]
