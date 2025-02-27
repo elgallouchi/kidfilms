@@ -8,7 +8,8 @@ let selectedGenre = null; // Genre actuellement filtré (null = pas de filtre)
 const fetchData = async () => {
   const data = await fetch("./films_data.json");
   if (data.status === 200) {
-    return await data.json();
+    const dataFinale = await data.json();
+    return await dataFinale.reverse();
   }
 };
 
@@ -30,8 +31,7 @@ const showData = () => {
   const startIndex = (currentPage - 1) * filmsPerPage;
   const endIndex = startIndex + filmsPerPage;
   const filmsToShow = filteredFilms.slice(startIndex, endIndex);
-  filmsToShow.reverse()
-  console.log(filmsToShow)
+
   let output = "";
   filmsToShow.forEach((film) => {
     output += `
