@@ -949,5 +949,125 @@
             "Kari Wahlgren"
         ],
         "created_at": "22-02-25_21:45:27"
+    },
+    {
+        "id": "cc7a46a0-198a-41cf-bbd5-5effd7d14025",
+        "title": "WALL·E",
+        "release_year": "2008 -",
+        "runtime": "98 min.",
+        "iframe_src": "https://frenchcloud.cam/movie/tt0910970",
+        "poster_src": "https://french-stream.gratis/uploads/thumb/300x450-0-80/2025-01/1736093597-440687893.jpg",
+        "genres": [
+            "Animation",
+            "Famille",
+            "Science fiction"
+        ],
+        "quality": "HD",
+        "audio": "TRUEFRENCH",
+        "description": "Faites la connaissance de WALL•E (prononcez « Walli ») : WALL•E est le dernier être sur Terre et s’avère être un… petit robot ! 700 ans plus tôt, l’humanité a déserté notre planète laissant à cette incroyable petite machine le soin de nettoyer la Terre. Mais au bout de ces longues années, WALL•E a développé un petit défaut technique : une forte personnalité. Extrêmement curieux, très indiscret, il est surtout un peu trop seul… Cependant, sa vie s’apprête à être bouleversée avec l’arrivée d’une petite « robote », bien carénée et prénommée EVE. Tombant instantanément et éperdument amoureux d’elle, WALL•E va tout mettre en œuvre pour la séduire. Et lorsqu’EVE est rappelée dans l’espace pour y terminer sa mission, WALL•E n’hésite pas un seul instant : il se lance à sa poursuite… Hors de question pour lui de laisser passer le seul amour de sa vie… Pour être à ses côtés, il est prêt à aller au bout de l’univers et vivre la plus fantastique des aventures !",
+        "country": "États-Unis",
+        "director": "Andrew Stanton",
+        "actors": [
+            "Ben Burtt",
+            "Elissa Knight",
+            "Jeff Garlin",
+            "Fred Willard",
+            "John Ratzenberger",
+            "Kathy Najimy",
+            "Sigourney Weaver",
+            "Lori Alan",
+            "Bob Bergen"
+        ],
+        "created_at": "27-02-25_21:56:43"
+    },
+    {
+        "id": "a4e75c79-f3f4-4058-8ebc-43c429151686",
+        "title": "Robot War",
+        "release_year": "2007 -",
+        "runtime": "86 min.",
+        "iframe_src": "https://frenchcloud.cam/movie/tt0960835",
+        "poster_src": "https://french-stream.gratis/uploads/thumb/300x450-0-80/2025-01/1738015194-718007753.jpg",
+        "genres": [
+            "Science fiction",
+            "Action",
+            "Aventure"
+        ],
+        "quality": "SD",
+        "audio": "VF",
+        "description": "Des robots extra-terrestres ont envahi la Terre et pris le pouvoir. Après 400 ans de domination, un petit groupe d'humains élabore un plan pour lutter contre ces envahisseurs, dans une ultime confrontation entre l'Homme et la Machine...",
+        "country": "États-Unis",
+        "director": "Leigh Scott",
+        "actors": [
+            "Matthew Wolf",
+            "Amy Weber",
+            "Shaley Scott",
+            "Eliza Swenson",
+            "Griff Furst",
+            "Michael Tower",
+            "Sarah Hall",
+            "Erin Evans",
+            "Noel Thurman"
+        ],
+        "created_at": "27-02-25_21:56:49"
+    },
+    {
+        "id": "aa549bc2-d835-4460-b7c4-f8d742863a6c",
+        "title": "A-X-L",
+        "release_year": "2018 -",
+        "runtime": "98 min.",
+        "iframe_src": "https://frenchcloud.cam/movie/tt5709188",
+        "poster_src": "https://french-stream.gratis/uploads/thumb/300x450-0-80/2024-03/1710021541-237372816.jpg",
+        "genres": [
+            "Science fiction",
+            "Action",
+            "Aventure",
+            "Famille"
+        ],
+        "quality": "HD",
+        "audio": "VF",
+        "description": "Miles, jeune homme malchanceux, fait la rencontre d'un chien robot de conception militaire et se lie d'amitié avec lui. Lorsque les scientifiques qui l'ont fabriqué tentent de remettre la main dessus, Miles décide de protéger son nouveau compagnon avec l'aide de son amie Sara.",
+        "country": "Stati Uniti",
+        "director": "Oliver Daly",
+        "actors": [
+            "Alex Neustaedter",
+            "Becky G",
+            "Alex MacNicoll",
+            "Dominic Rains",
+            "Thomas Jane",
+            "Lou Taylor Pucci",
+            "Patricia De Leon",
+            "Niko Guardado",
+            "Marie-Françoise Theodore"
+        ],
+        "created_at": "27-02-25_21:56:57"
+    },
+    {
+        "id": "f69f71fb-730a-40eb-b6b9-5744abe5810a",
+        "title": "The Prison",
+        "release_year": "2017 -",
+        "runtime": "125 min.",
+        "iframe_src": "https://frenchcloud.cam/movie/tt6589464",
+        "poster_src": "https://french-stream.gratis/uploads/thumb/300x450-0-80/2024-03/1710512303-114432055.jpg",
+        "genres": [
+            "Crime",
+            "Action"
+        ],
+        "quality": "SD",
+        "audio": "VF",
+        "description": "Un ancien policier nommé Song Yoo-gun se fait incarcérer dans une prison en tant que détenu pour rencontrer un prisonnier connu sous le nom du \"Roi\" afin qu'il lui révèle la vérité sur la mort de son jeune frère...",
+        "country": "Corée du Sud",
+        "director": "Na Hyun",
+        "actors": [
+            "Han Suk-kyu",
+            "Kim Rae-won",
+            "Jung Woong-in",
+            "Jo Jae-yun",
+            "Shin Sung-rok",
+            "Jeon Bae-soo",
+            "Lee Kyung-young",
+            "Kang Shin-il",
+            "Kim Sung-kyun"
+        ],
+        "created_at": "27-02-25_22:00:12"
     }
 ]

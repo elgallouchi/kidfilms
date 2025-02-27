@@ -30,7 +30,8 @@ const showData = () => {
   const startIndex = (currentPage - 1) * filmsPerPage;
   const endIndex = startIndex + filmsPerPage;
   const filmsToShow = filteredFilms.slice(startIndex, endIndex);
-
+  filmsToShow.reverse()
+  console.log(filmsToShow)
   let output = "";
   filmsToShow.forEach((film) => {
     output += `
