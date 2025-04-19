@@ -1252,5 +1252,23 @@
         "director": "Fred Olen Ray",
         "actors": [],
         "created_at": "18-04-25_12:24:19"
+    },
+    {
+        "id": "9582d93f-aa08-4734-b60e-9cbff1020e7f",
+        "title": "Ali",
+        "release_year": "2001 -",
+        "runtime": "157 min.",
+        "iframe_src": "https://play.frenchcloud.cam/movie/tt0248667",
+        "poster_src": "https://french-stream.gratis/uploads/thumb/300x450-0-80/2025-04/1743588951-329221452.jpg",
+        "genres": [
+            "Drame"
+        ],
+        "quality": "HD",
+        "audio": "VF",
+        "description": "La vie du boxeur Cassius Clay à partir de sa victoire historique sur le champion du monde Sonny Liston en 1964 jusqu'au célèbre combat contre George Foreman en 1974. En marge de sa carrière sportive de l'époque, le film retrace l'engagement de celui qui changera de nom pour Mohamed Ali aux côtés du mouvement Nation of Islam et ses relations avec Malcom X.",
+        "country": "États-Unis",
+        "director": "Michael Mann",
+        "actors": [],
+        "created_at": "19-04-25_16:38:06"
     }
 ]
