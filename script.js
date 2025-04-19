@@ -76,7 +76,7 @@ const showData = () => {
     output += `
       <div class="film">
       <div class="badge-film"  onclick="showMoreData('${film?.id}')">
-        <img class="badge-img" src="/more.png" alt="menu" />
+        <img class="badge-img" src="./more.png" alt="menu" />
       </div>
           <img class="poster_film" src="${film?.poster_src}" alt="" />
           <h2 class="titre_film">${film?.title}</h2>
@@ -131,7 +131,7 @@ const searchData = () => {
     output += `
       <div class="film">
       <div class="badge-film" onclick="showMoreData('${film?.id}')">
-        <img class="badge-img" src="/more.png" alt="menu" />
+        <img class="badge-img" src="./more.png" alt="menu" />
       </div>
           <img class="poster_film" src="${film?.poster_src}" alt="" />
           <h2 class="titre_film">${film?.title}</h2>
@@ -158,7 +158,7 @@ const updatePagination = () => {
   if (!paginationDom) return;
   paginationDom.innerHTML = `
   <div class="home-btn" onclick="resetFilter()">
-  <img class="home-img" src="/home.png" alt="Home" />
+  <img class="home-img" src="./home.png" alt="Home" />
   </div>
   <div id="search-bar">
     <input type="text" id="search-input" placeholder="Rechercher un film..." />
