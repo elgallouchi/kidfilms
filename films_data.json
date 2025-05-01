@@ -1270,5 +1270,95 @@
         "director": "Michael Mann",
         "actors": [],
         "created_at": "19-04-25_16:38:06"
+    },
+    {
+        "id": "11565050-fdcd-4d9e-a93d-a73b05ab9dae",
+        "title": "À la belle étoile",
+        "release_year": "2023 -",
+        "runtime": "110 min.",
+        "iframe_src": "https://play.frenchcloud.cam/movie/tt19815386",
+        "poster_src": "https://french-stream.gratis/uploads/thumb/300x450-0-80/2023-12/1701433068-748150971.jpg",
+        "genres": [
+            "Comédie",
+            "Historique"
+        ],
+        "quality": "HD",
+        "audio": "VF",
+        "description": "Depuis son plus jeune âge, Yazid n’a qu’une passion, la pâtisserie. Elevé entre famille d’accueil et foyer, le jeune homme s’est forgé un caractère indomptable. Pour réussir dans le monde élitiste de la pâtisserie, Yazid va pourtant devoir dépasser ses traumatismes et changer d’attitude. D’Epernay à Paris en passant par Monaco, il va travailler chez les plus grands chefs pâtissiers pour devenir le meilleur et tenter de réaliser son rêve en remportant le titre de champion du monde de pâtisserie.",
+        "country": "France",
+        "director": "Sébastien Tulard",
+        "actors": [],
+        "created_at": "01-05-25_17:04:53"
+    },
+    {
+        "id": "5422f241-9f26-4969-a3e4-35334d34b311",
+        "title": "Wonka",
+        "release_year": "2023 -",
+        "runtime": "117 min.",
+        "iframe_src": "https://play.frenchcloud.cam/movie/tt6166392",
+        "poster_src": "https://french-stream.gratis/uploads/thumb/300x450-0-80/2024-01/1705158482-271153851.jpg",
+        "genres": [
+            "Comédie",
+            "Famille",
+            "Fantastique",
+            "Films au Cinéma"
+        ],
+        "quality": "HD",
+        "audio": "VF",
+        "description": "Basé sur le personnage extraordinaire au centre de Charlie et la chocolaterie, le livre pour enfants le plus emblématique de Roald Dahl est l'un des livres pour enfants les plus vendus de tous les temps, 'Wonka' raconte l'histoire merveilleuse de la façon dont le plus grand inventeur, magicien et chocolatier est devenu le bien-aimé Willy Wonka que nous connaissons aujourd'hui.",
+        "country": "Regno Unito, Stati Uniti",
+        "director": "Paul King",
+        "actors": [],
+        "created_at": "01-05-25_17:05:01"
+    },
+    {
+        "id": "b866a351-e12e-4745-aafc-96445fc869cf",
+        "title": "Constantinople",
+        "release_year": "2012 -",
+        "runtime": "156 min.",
+        "iframe_src": "https://play.frenchcloud.cam/movie/tt1783232",
+        "poster_src": "https://french-stream.gratis/uploads/thumb/300x450-0-80/2024-09/1726069707-373496959.jpg",
+        "genres": [
+            "Aventure",
+            "Drame",
+            "Action",
+            "Guerre"
+        ],
+        "quality": "HD",
+        "audio": "VF",
+        "description": "En 1453, la capitale byzantine qu’est Constantinople est entourée par l’Empire Ottoman. La ville n’est plus qu’une ombre de sa gloire passée en raison de la mauvaise gestion byzantine, tandis que l’Empire ottoman continue à s’enrichir. L’ambitieux et jeune sultan, Mehmet II lance sa campagne pour mettre fin à l’Empire byzantin et de prendre Constantinople qui devint Istanbul, saluant ainsi les dires du dernier Prophète.",
+        "country": "Turkey",
+        "director": "Faruk Aksoy",
+        "actors": [],
+        "created_at": "01-05-25_17:05:08"
+    },
+    {
+        "id": "3d0cf00a-30bc-428a-962d-814e4c4ec49a",
+        "title": "Power Book III: Raising Kanan",
+        "release_year": "2021 -",
+        "runtime": "60 min.",
+        "iframe_src": "https://supervideo.cc/embed-dhy4pgh2nkgn.html",
+        "poster_src": "https://french-stream.gratis/uploads/thumb/300x450-0-80/2023-12/1702517784-205338955.jpg",
+        "genres": [
+            "Séries",
+            "Drame"
+        ],
+        "quality": "HD",
+        "audio": "VF",
+        "description": "Dans le quartier de South Jamaica, Queens, en 1991, Kanan Stark, le mentor, le futur partenaire et adversaire de Ghost et Tommy, a 15 ans et nous embarque dans son quotidien mouvementé, aux côtés d'une mère dealeuse de cocaïne avec un réseau émergent à travers la ville.Spinoff de la série Power sur les jeunes années de Kanan Stark.",
+        "country": "",
+        "director": "Sascha Penn",
+        "actors": [
+            "Mekai Curtis",
+            "Patina Miller",
+            "Omar Epps",
+            "Hailey Kilgore",
+            "London Brown",
+            "Malcolm M. Mays",
+            "Shanley Caswell",
+            "Joey Bada$$",
+            "Antonio Ortiz"
+        ],
+        "created_at": "01-05-25_17:05:15"
     }
 ]
